@@ -19,6 +19,16 @@ and provides additional customization and docker volume management.
     * /var/lib/influxdb/data
     * /var/lib/influxdb/wal
 
+# DockerHub
+
+[gracnar/influxdb](https://hub.docker.com/r/gracnar/influxdb/)
+
+# Usage
+
+```
+docker run gracnar/influxdb:latest
+```
+
 # docker-compose
 
 ```yml
