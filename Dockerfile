@@ -2,7 +2,7 @@
 # custom influxdb docker file
 #
 
-FROM        influxdb:1.1.1-alpine
+FROM        influxdb:1.4.3-alpine
 
 # make everything configurable
 VOLUME      [ "/var/lib/influxdb", "/var/lib/influxdb/data", "/var/lib/influxdb/meta", "/var/lib/influxdb/wal", "/etc/influxdb" ]

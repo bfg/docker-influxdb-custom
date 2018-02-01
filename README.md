@@ -7,8 +7,8 @@ and provides additional customization and docker volume management.
 
 ## Docker image features
 
-  * [InfluxDB](https://www.influxdata.com/time-series-platform/influxdb/) version **1.0.0**
-  * [Alpine Linux](https://alpinelinux.org/) **3.4**
+  * [InfluxDB](https://www.influxdata.com/time-series-platform/influxdb/) version **1.4.3**
+  * [Alpine Linux](https://alpinelinux.org/) **3.6**
 
 ## InfluxDB configuration features
 
